@@ -1,4 +1,4 @@
-<div align="center" height="50">
+<div align="center" height="100">
     <img alt="banner" src="./assets/hello-there.png" />
 </div>
 
