@@ -1,5 +1,5 @@
-<div align="center" height="100">
-    <img alt="banner" src="./assets/hello-there.png" />
+<div align="center">
+    <img alt="banner" src="./assets/hello-there.png" height="200"/>
 </div>
 
 # Hello there! 👋
