@@ -11,6 +11,6 @@ However, I am comfortable in a full-stack environment having worked on large Ang
 
 I joined the field as a self-taught 19-year-old. I am now 24, and decided it was time to enroll for a BA in Computer Science.
 
-Most of the projects on my profile are from 2-3 years ago.
+Most of the projects on my profile are from **2-3 years ago**.
 
 In my spare time, I stay busy by working on a venture which I hope could be lucrative some day. 
